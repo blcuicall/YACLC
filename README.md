@@ -81,6 +81,14 @@ python eval.py output_file test_gold_m2
 }
 ```
 
+### 数据集获取
+
+获取训练集数据，请发邮件联系数据研发团队 blcuicall@163.com
+
+数据资源只用于学术研究，如需商用，请联系我们购买。
+
+任何重新发布或分享下载好的数据的行为均视为侵权，望知悉。
+
 ### 引用
 
 如果您使用了本数据集，请引用以下技术报告：
@@ -180,6 +188,13 @@ The Evaluation Metric is F_0.5：
   "F_0.5": 59.79
 }
 ```
+
+### How to obtain the dataset
+To obtain training set data, please sent email to: blcuicall@163.com
+
+The dataset is only allowed for non-commercial research purpose. For commercial use, please contact us for purchase.
+
+Any act of reproducing, republishing, distributing or transmitting the dataset without the express permission of BLCUICALL team shall be regarded as infringement.
 
 ### Citation
 
